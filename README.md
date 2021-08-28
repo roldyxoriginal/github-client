@@ -20,7 +20,8 @@ git init
 gh repo create --public
 git add .
 git commit -m "Commit Inicial"
-git push --set-upstream origin main
+git push --set-upstream origin master
+
 
 
 ```
